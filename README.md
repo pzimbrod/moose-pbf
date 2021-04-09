@@ -11,12 +11,12 @@ A MOOSE implementation of code that models the Laser Powder Bed Fusion process.
 
 ## ToDo
 
-- [] Multiphase
-- [] Domain
-- [] Domain segmentation
-- [] BCs
-- [] ICs
-- [] Kernels
+- [ ] Multiphase
+- [ ] Domain
+- [ ] Domain segmentation
+- [ ] BCs
+- [ ] ICs
+- [ ] Kernels
 
 "Fork lpbf" to create a new MOOSE-based application.
 
