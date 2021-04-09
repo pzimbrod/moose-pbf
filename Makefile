@@ -43,7 +43,7 @@ RDG                         := yes
 RICHARDS                    := no
 STOCHASTIC_TOOLS            := yes
 TENSOR_MECHANICS            := yes
-XFEM                        := no
+XFEM                        := yes
 
 include $(MOOSE_DIR)/modules/modules.mk
 ###############################################################################
